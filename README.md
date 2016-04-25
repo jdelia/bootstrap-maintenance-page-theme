@@ -15,10 +15,10 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 
 ## Creator
 
-This template is based on the work created by [Start Bootstrap](http://startbootstrap.com/) and is maintained by [Jackie D'Elia](htps://jackiedelia.com). 
+This template is based on the work created by [Start Bootstrap](http://startbootstrap.com/) and is maintained by [Jackie D'Elia](https://jackiedelia.com). 
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+* https://twitter.com/jdelia
+* https://github.com/jdelia
 
 Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 

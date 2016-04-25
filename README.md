@@ -1,21 +1,21 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Landing Page](http://startbootstrap.com/template-overviews/landing-page/)
+# [Maintenance Page Bootstrap Theme](https://jackiedelia.com/) 
 
-[Landing Page](http://startbootstrap.com/template-overviews/landing-page/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+[Maintenance Page](https://github.com/jdelia/bootstrap-maintenance-page-theme) is a custom landing page template for [Bootstrap](http://getbootstrap.com/) based on [Landing Page](http://startbootstrap.com/template-overviews/landing-page/) created by [Start Bootstrap](http://startbootstrap.com/).
 
 ## Getting Started
 
 To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/landing-page/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-landing-page.git`
+* [Download the latest release on Github](https://github.com/jdelia/bootstrap-maintenance-page-theme)
+* Clone the repo: `git clone https://github.com/jdelia/bootstrap-maintenance-page-theme.git`
 * Fork the repo
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-landing-page/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/landing-page/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/jdelia/bootstrap-maintenance-page-theme/issues) here on GitHub.
 
 ## Creator
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+This template is based on the work created by [Start Bootstrap](http://startbootstrap.com/) and is maintained by [Jackie D'Elia](htps://jackiedelia.com). 
 
 * https://twitter.com/davidmillerskt
 * https://github.com/davidtmiller

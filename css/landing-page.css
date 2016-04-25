@@ -1,7 +1,9 @@
 /*!
  * Start Bootstrap - Landing Page Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ * modifications by Jackie D'Elia Design
+ * https://jackiedelia.com
+ * Code licensed under MIT
+ * For details, see https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/gh-pages/LICENSE
  */
 
 body, html {
@@ -35,8 +37,6 @@ body, h1, h2, h3, h4, h5, h6 {
     font-weight: 400;
 }
 .container {
-    /*padding-top: 10%;
-    padding-bottom: 10%;*/
     text-align: center;
     color: #f8f8f8;
     display: flex;
